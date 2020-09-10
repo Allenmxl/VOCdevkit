@@ -1,0 +1,50 @@
+<annotation>
+	<folder>baidu02</folder>
+	<filename>幼儿园	(127).jpg</filename>
+	<path>D:\BaiduNetdiskDownload\图片\baidu02\幼儿园	(127).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adult</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>42</ymin>
+			<xmax>393</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adult</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>63</ymin>
+			<xmax>600</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>211</ymin>
+			<xmax>448</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sing03</folder>
+	<filename>Adult&amp;Child213.jpg</filename>
+	<path>C:\Users\q5980\Videos\报警\sing03\Adult&amp;Child213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>child</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>8</ymin>
+			<xmax>213</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

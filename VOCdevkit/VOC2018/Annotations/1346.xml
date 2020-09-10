@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adult&amp;child_pic2</folder>
+	<filename>1492.jpg</filename>
+	<path>C:\Users\q5980\Videos\报警\adult&amp;child_pic2\1492.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adult</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>24</ymin>
+			<xmax>267</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

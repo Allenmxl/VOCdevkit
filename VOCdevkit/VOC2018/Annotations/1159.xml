@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test01</folder>
+	<filename>83.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test01\83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adult</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>224</ymin>
+			<xmax>488</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+</annotation>
